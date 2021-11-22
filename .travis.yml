@@ -16,4 +16,4 @@ api_key: HEROKU_API_KEY
 edge: true
 app: cloud-devops
 on:
-        branch: main
+        branch: master
